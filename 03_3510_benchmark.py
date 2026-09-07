@@ -1,4 +1,5 @@
-import AulasPraticas.AP_03_ordenacao as ap3
+from AulasPraticas import AP_03_ordenacao as ap3
+#import AulasPraticas.AP_03_ordenacao as ap3
 import random
 import time
 import sys
